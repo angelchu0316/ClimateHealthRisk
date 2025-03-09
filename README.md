@@ -64,7 +64,7 @@
 │── 📄 ClimateHealthRisk.pdf # 研究報告 PDF 版本   
 │── 📄 ClimateHealthRisk_code.ipynb # Jupyter Notebook (完整數據分析)  
 │── 📄 ClimateHealthRisk_report.pdf # 簡報  
-│── 📄 Quality_Dataset.csv # 原始數據與清理後數據   
+│── 📄 Quality_Dataset.csv # 原始數據   
 
 
 ## 📜 參考資料
